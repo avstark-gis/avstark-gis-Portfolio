@@ -1,0 +1,105 @@
+html,
+body {
+	width: fit-content;
+	height: 100%;
+	font-family: 'Oxygen', sans-serif;
+	padding-top: 20px;
+	background-color: #ECECEC;
+}
+
+a {
+	color: #333;
+}
+
+h1 {
+	color: white;
+}
+h2 {
+	color: white;
+}
+/*_______________navbar________________*/
+/*#navbar-container {
+	font-size: 16px;
+}
+*/
+#navbar-fixed-top {
+	margin-bottom: 0px;
+	border-bottom-width: 0px;
+}
+#navbar-container {
+	font-size: 20.5px;
+}
+#navbar {
+	list-style-type: none;
+	display: flex;
+	flex-direction: row;
+	padding: 10px;
+	justify-content: space-around;
+	margin: 0px;
+	background-color: #DEDEDE;
+}
+/*____________jumbo___________________*/
+
+#jumbotron {
+	height: 100%;
+	text-align: center;
+	margin-bottom: 0px;
+	background-image: url("Lowell_2.jpeg");
+	background-size: cover;
+}
+#jumbo-text-container {
+	display: flex;
+	flex-direction: column;
+	padding-top: 170px;
+}
+/*_____________header________________*/
+
+#header-portfolio {
+	width: 100%;
+	padding: 0px;
+}
+#header-portfolio {
+	text-align: center;
+	background-image:url("Lowell_2.jpeg");
+}
+.page-header {
+	margin: 0px;
+	border-bottom: .5px solid gray;
+}
+/*___________thumbs_________________*/
+#thumbnails{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.card {
+	margin-top: 55px;
+	padding: 20px;
+
+}
+.card-body{
+	background-color: rgb(191,176,153,50%);
+	width: 350px;
+	height: 150px;
+}
+
+.card-img {
+	width: 350px;
+	height: 350px;
+	margin-top: 20px;
+}
+
+.thumb-titles {
+	text-align: center;
+	font-size: 30px;
+	margin-top: 0px;
+}
+.card-text {
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin:0px;
+
+}
