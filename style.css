@@ -47,7 +47,7 @@ h2 {
 	list-style-type: none;
 	display: flex;
 	flex-direction: row;
-	padding: 0px;
+	padding: 10px;
 	justify-content: space-around;
 	margin: 0px;
 	background-color: #DEDEDE;
