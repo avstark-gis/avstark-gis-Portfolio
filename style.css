@@ -17,7 +17,7 @@ h1 {
 h2 {
 	color: white;
 }
-/*_______________navbar________________*/
+/*____________index-navbar________________*/
 /*#navbar-container {
 	font-size: 16px;
 }
@@ -26,14 +26,7 @@ h2 {
 	margin-bottom: 0px;
 	border-bottom-width: 0px;
 }
-#navbar-about {
-	margin-bottom: 0px;
-	border-bottom-width: 0px;
-}
 #navbar-container {
-	font-size: 20.5px;
-}
-#navbar-container-about {
 	font-size: 20.5px;
 }
 #navbar {
@@ -45,6 +38,14 @@ h2 {
 	margin: 0px;
 	background-color: #DEDEDE;
 }
+/*____________about-nav_______________*/
+#navbar-about {
+	margin-bottom: 0px;
+	border-bottom-width: 0px;
+}
+#navbar-container-about {
+	font-size: 20.5px;
+}
 #navbar-about {
 	list-style-type: none;
 	display: flex;
@@ -54,6 +55,12 @@ h2 {
 	margin: 0px;
 	background-color: #DEDEDE;
 }
+#alissa-image{
+	width: 500px
+	height: 500px;
+}
+/*__________contact-nav_______________*/
+
 /*____________jumbo___________________*/
 
 #jumbotron {
