@@ -54,7 +54,7 @@ h2 {
 	font-size: 20.5px;
 }
 
-#navbar-about {
+/*#navbar-about {
 	list-style-type: none;
 	display: flex;
 	flex-direction: row;
@@ -62,7 +62,7 @@ h2 {
 	justify-content: space-around;
 	margin: 0px;
 	background-color: #DEDEDE;
-}
+}*/
 
 #Aboutpg-home {
 	margin-right: 35px;
