@@ -26,10 +26,26 @@ h2 {
 	margin-bottom: 0px;
 	border-bottom-width: 0px;
 }
+#navbar-about {
+	margin-bottom: 0px;
+	border-bottom-width: 0px;
+}
 #navbar-container {
 	font-size: 20.5px;
 }
+#navbar-container-about {
+	font-size: 20.5px;
+}
 #navbar {
+	list-style-type: none;
+	display: flex;
+	flex-direction: row;
+	padding: 10px;
+	justify-content: space-around;
+	margin: 0px;
+	background-color: #DEDEDE;
+}
+#navbar-about {
 	list-style-type: none;
 	display: flex;
 	flex-direction: row;
