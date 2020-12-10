@@ -46,8 +46,8 @@ h2 {
 #navbar-container-about {
 	list-style-type: none;
 	display: flex;
-	flex-direction: column;
-	padding: 10px;
+	flex-direction: row;
+	padding: 0px;
 	justify-content: space-around;
 	margin: 0px;
 	background-color: #DEDEDE;
