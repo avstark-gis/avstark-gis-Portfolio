@@ -45,17 +45,11 @@ h2 {
 	border-bottom-width: 0px;
 }
 #navbar-container-about {
-	list-style-type: none;
-	display: flex;
-	flex-direction: row;
-	padding: 10px;
-	justify-content: space-around;
-	margin: 0px;
 	background-color: #DEDEDE;
 	font-size: 20.5px;
 }
 
-/*#navbar-about {
+#navbar-about {
 	list-style-type: none;
 	display: flex;
 	flex-direction: row;
@@ -63,7 +57,7 @@ h2 {
 	justify-content: space-around;
 	margin: 0px;
 	background-color: #DEDEDE;
-}*/
+}
 
 #Aboutpg-home {
 	margin-right: 35px;
