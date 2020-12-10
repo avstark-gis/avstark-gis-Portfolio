@@ -44,11 +44,6 @@ h2 {
 	border-bottom-width: 0px;
 }
 #navbar-container-about {
-	background-color: #DEDEDE;
-	font-size: 20.5px;
-}
-
-#navbar-about {
 	list-style-type: none;
 	display: flex;
 	flex-direction: row;
@@ -56,6 +51,7 @@ h2 {
 	justify-content: space-around;
 	margin: 0px;
 	background-color: #DEDEDE;
+	font-size: 20.5px;
 }
 
 #Aboutpg-home {
