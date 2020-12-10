@@ -55,10 +55,16 @@ h2 {
 	margin: 0px;
 	background-color: #DEDEDE;
 }
-#home-link-about{
-	margin-right: 20px;
-}
+
 /*__________contact-nav_______________*/
+
+/*___________about-jumbo____________*/
+#jumbo-about{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
 
 /*____________jumbo___________________*/
 
