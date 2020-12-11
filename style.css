@@ -136,6 +136,7 @@ h2 {
 	flex-direction: row;
 	flex-wrap: wrap;
 	justify-content: space-around;
+	align-items: center;
 }
 
 .card {
@@ -151,7 +152,7 @@ h2 {
 
 .card-img {
 	width: 350px;
-	height: 250px;
+	height: 350px;
 	margin-top: 20px;
 }
 
