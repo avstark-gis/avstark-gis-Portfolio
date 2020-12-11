@@ -109,6 +109,12 @@ h2 {
 	padding: 15px;
 	width: 75%
 }
+#bio-info {
+	text-align: justify;
+}
+#art-info {
+	text-align: justify;
+}
 /*_____________header________________*/
 #header-portfolio {
 	width: 100%;
