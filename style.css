@@ -91,12 +91,14 @@ h2 {
 #jumbo-about{
 	display: flex;
 	flex-direction: row;
+	align-items: center;
 	flex-wrap: wrap;
 	justify-content: space-around;
 }
 #jumbo-art {
 	display: flex;
 	flex-direction: row;
+	align-items: center;
 	flex-wrap: wrap;
 	justify-content: space-around;
 }
