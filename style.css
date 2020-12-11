@@ -100,7 +100,7 @@ h2 {
 	background-color: "#D9CCC5";
 }
 #art-button {
-	background-color: "D9CCC5";
+	background-image: linear-gradient(to bottom,(#D9CCC5 0,#F2E4DC 100%);
 }
 #content-bio {
 	padding: 15px;
