@@ -94,7 +94,12 @@ h2 {
 	flex-wrap: wrap;
 	justify-content: space-around;
 }
-
+#jumbo-art {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
 /*___________buttons/bio______________*/
 #content-bio {
 	padding: 15px;
