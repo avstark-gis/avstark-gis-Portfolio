@@ -167,14 +167,14 @@ h2 {
 	padding-bottom: 5px;
 	margin:0px;
 }
-/*____________resume_____________*/
+/*____________resume_____________
 #resume-pdf {
 	height:100vh;
 }
 iframe {
-    display: block;       /* iframes are inline by default */
+    display: block;       /* iframes are inline by default 
     background: #000;
-    border: none;         /* Reset default border */
-    height: 100vh;        /* Viewport-relative units */
+    border: none;         /* Reset default border 
+    height: 100vh;        /* Viewport-relative units 
     width: 100vw;
-}
+}*/
