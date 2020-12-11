@@ -97,10 +97,13 @@ h2 {
 
 /*_____________buttons_______________*/
 #resume-button {
-	background-image: "textroad.jpg";
+	background-color: "#D9CCC5";
 }
 #art-button {
-	background-image: "textroad.jpg";
+	background-color: "D9CCC5";
+}
+#content-bio {
+	padding: 15px;
 }
 /*_____________header________________*/
 #header-portfolio {
