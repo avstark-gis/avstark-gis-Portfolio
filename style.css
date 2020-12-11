@@ -95,16 +95,12 @@ h2 {
 	justify-content: space-around;
 }
 
-/*_____________buttons_______________*/
-#resume-button {
-	background-color: "#D9CCC5";
-}
-#art-button {
-	background-image: linear-gradient(to bottom,(#D9CCC5 0,#F2E4DC 100%);
-}
+/*___________buttons/bio______________*/
 #content-bio {
 	padding: 15px;
+	width: 75%;
 }
+
 /*_____________header________________*/
 #header-portfolio {
 	width: 100%;
