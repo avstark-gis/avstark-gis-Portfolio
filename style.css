@@ -18,10 +18,6 @@ h2 {
 	color: white;
 }
 /*____________index-navbar________________*/
-/*#navbar-container {
-	font-size: 16px;
-}
-*/
 #navbar-fixed-top {
 	margin-bottom: 0px;
 	border-bottom-width: 0px;
@@ -46,7 +42,6 @@ h2 {
 #navbar-container-about {
 	font-size: 20.5px;
 }
-
 #navbar-about {
 	list-style-type: none;
 	display: flex;
@@ -56,25 +51,30 @@ h2 {
 	margin: 0px;
 	background-color: #DEDEDE;
 }
-
+/*___________contact-nav_______________*/
+#fixed-contact {
+	margin-bottom: 0px;
+	border-bottom-width: 0px;
+}
+#navbar-container-contact {
+	font-size: 20.5px;
+}
+#navbar-contact {
+	list-style-type: none;
+	display: flex;
+	flex-direction: row;
+	padding: 10px;
+	justify-content: space-around;
+	margin: 0px;
+	background-color: #DEDEDE;
+}
 /*#Aboutpg-home {
 	margin-right: 35px;
 }
 #Aboutpg-contact {
 	margin-left: 35px;
 }
-/*__________contact-nav_______________*/
-
-/*___________about-jumbo____________*/
-#jumbo-about{
-	display: flex;
-	flex-direction: row;
-	flex-wrap: wrap;
-	justify-content: space-around;
-}
-
 /*____________jumbo___________________*/
-
 #jumbotron {
 	height: 100%;
 	text-align: center;
@@ -87,8 +87,19 @@ h2 {
 	flex-direction: column;
 	padding-top: 170px;
 }
-/*_____________header________________*/
+/*___________about-jumbo____________*/
+#jumbo-about{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
 
+/*_____________buttons_______________*/
+#resume-button {
+	background-image: "textroad.jpg";
+}
+/*_____________header________________*/
 #header-portfolio {
 	width: 100%;
 	padding: 0px;
