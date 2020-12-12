@@ -18,7 +18,10 @@ h2 {
 	color: white;
 }
 .body-pdfs {
-	width: auto;
+	width: 100%;
+}
+.html-pdfs {
+	width: 100%;
 }
 /*____________index-navbar________________*/
 #navbar-fixed-top {
