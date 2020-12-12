@@ -17,6 +17,9 @@ h1 {
 h2 {
 	color: white;
 }
+.body-pdfs {
+	width: auto;
+}
 /*____________index-navbar________________*/
 #navbar-fixed-top {
 	margin-bottom: 0px;
