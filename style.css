@@ -162,11 +162,10 @@ h2 {
 	margin-top: 0px;
 }
 .card-text {
-	text-align: center;
-	padding-top: 5px;
-	padding-bottom: 5px;
-	margin:0px;
 	text-align: justify;
+	padding: 5px;
+	margin:0px;
+	
 }
 /*____________resume_____________
 #resume-pdf {
