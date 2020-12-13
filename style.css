@@ -17,6 +17,7 @@ h1 {
 h2 {
 	color: white;
 }
+/*
 .body-pdfs {
 	width: 100%;
 }
@@ -27,6 +28,7 @@ h2 {
 	text-align: center;
 }
 /*____________index-navbar________________*/
+
 #navbar-fixed-top {
 	margin-bottom: 0px;
 	border-bottom-width: 0px;
@@ -176,7 +178,7 @@ h2 {
 	margin:0px;
 	
 }
-/*____________resume_____________*/
+/*____________resume_____________
 
 #plugin {
     height: 100%;
