@@ -176,11 +176,16 @@ h2 {
 	margin:0px;
 	
 }
-/*____________resume_____________
-#resume-pdf {
+/*____________resume_____________*/
+
+#plugin {
+    height: 100%;
+    position: absolute;
+    width: 100%;
+}#resume-pdf {
 	height:100vh;
 }
-iframe {
+/*iframe {
     display: block;       /* iframes are inline by default 
     background: #000;
     border: none;         /* Reset default border 
