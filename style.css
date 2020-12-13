@@ -23,6 +23,9 @@ h2 {
 .html-pdfs {
 	width: 100%;
 }
+.h-external {
+	text-align: center;
+}
 /*____________index-navbar________________*/
 #navbar-fixed-top {
 	margin-bottom: 0px;
