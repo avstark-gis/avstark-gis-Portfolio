@@ -1,4 +1,6 @@
-html,
+html{
+	width: 100%;
+}
 body {
 	width: fit-content;
 	height: 100%;
@@ -18,9 +20,6 @@ h2 {
 	color: white;
 }
 
-.body-pdfs {
-	width: 100%;
-}
 .html-pdfs {
 	width: 100%;
 }
@@ -77,12 +76,7 @@ h2 {
 	margin: 0px;
 	background-color: #DEDEDE;
 }
-/*#Aboutpg-home {
-	margin-right: 35px;
-}
-#Aboutpg-contact {
-	margin-left: 35px;
-}
+
 /*____________jumbo___________________*/
 #jumbotron {
 	width: 100%;
