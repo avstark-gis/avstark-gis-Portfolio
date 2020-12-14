@@ -90,7 +90,12 @@ h2 {
 	padding-top: 170px;
 }
 /*___________about-jumbo____________*/
-#jumbo-about{
+#jumbotron-about{
+	width: 100%;
+	height:100%
+	margin-bottom:0px;
+}
+#jumbo-text-about{
 	display: flex;
 	flex-direction: row;
 	align-items: center;
