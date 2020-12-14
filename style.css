@@ -172,17 +172,13 @@ h2 {
 
 .thumb-titles {
 	text-align: center;
-	font-size: 30px;
+	font-size: 20px;
 	margin-top: 0px;
 }
 .card-text {
 	text-align: justify;
 	padding: 8px;
-	margin:0px;
-	
-}
-.thumb-titles {
-	font-size: 20px;
+	margin:0px;	
 }
 /*____________resume_____________
 
