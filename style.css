@@ -1,9 +1,6 @@
-html{
-	width: 100%;
-	height: 100%;
-}
+html,
 body {
-	width: fit-content;
+	width: 100%;
 	height: 100%;
 	font-family: 'Oxygen', sans-serif;
 	padding-top: 20px;
