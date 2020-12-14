@@ -161,7 +161,7 @@ h2 {
 .card-body{
 	background-color: rgb(191,176,153,50%);
 	width: 350px;
-	height: 120px;
+	height: 130px;
 }
 
 .card-img {
@@ -181,7 +181,7 @@ h2 {
 	margin:0px;	
 }
 /*____________resume_____________
-
+ 
 #plugin {
     height: 100%;
     position: absolute;
