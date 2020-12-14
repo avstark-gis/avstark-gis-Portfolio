@@ -24,11 +24,7 @@ h2 {
 .html-pdfs {
 	width: 100%;
 }
-.h-external {
-	text-align: center;
-	padding-bottom: 8px;
-	padding-left: 8px;
-}
+
 /*____________index-navbar________________*/
 
 #navbar-fixed-top {
@@ -142,6 +138,15 @@ h2 {
 .page-header {
 	margin: 0px;
 	border-bottom: .5px solid gray;
+}
+.h-external {
+	width: 100%;
+	margin: 0px;
+	border-bottom: .5px solid gray;
+	text-align: center;
+	padding-bottom: 8px;
+	padding-left: 8px;
+}
 }
 /*___________thumbs_________________*/
 #thumbnails{
