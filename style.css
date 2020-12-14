@@ -135,9 +135,8 @@ h2 {
 .h-external {
 	width: 100%;
 	margin: 0px;
-	border-bottom: .5px solid gray;
 	text-align: center;
-	padding-bottom: 8px;
+	padding-bottom: 18px;
 	padding-left: 8px;
 }
 /*___________thumbs_________________*/
