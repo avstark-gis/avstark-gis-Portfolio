@@ -97,14 +97,14 @@ h2 {
 }*/
 #jumbo-text-about{
 	display: flex;
-	flex-direction: row;
+	flex-direction: column;
 	align-items: center;
 	flex-wrap: wrap;
 	justify-content: space-around;
 }
 #jumbo-art {
 	display: flex;
-	flex-direction: row;
+	flex-direction: column;
 	align-items: center;
 	flex-wrap: wrap;
 	justify-content: space-around;
