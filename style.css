@@ -109,6 +109,22 @@ h2 {
 	flex-wrap: wrap;
 	justify-content: space-around;
 }
+/*__________contact-jumbo_____________*/
+#jumbotron-contact {
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	margin-bottom: 0px;
+	background-image: url("fabCROP3.jpeg");
+	background-size: cover;
+}
+#jumbo-text-contact {
+	display: flex;
+	flex-direction: column;
+	padding-top: 170px;
+}
+
+
 /*___________buttons/bio______________*/
 #content-bio {
 	padding: 15px;
