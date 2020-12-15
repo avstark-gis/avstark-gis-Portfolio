@@ -117,7 +117,7 @@ h2 {
 	text-align: center;
 	margin-bottom: 0px;
 	background-image: url("fabCROP3.jpg");
-	background-size: 100%;
+	background-size: contain;
 	background-repeat: no-repeat;
 }
 #jumbo-text-contact {
