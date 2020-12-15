@@ -135,6 +135,7 @@ h2 {
 #content-bio {
 	padding: 15px;
 	width: 85%;
+	align-content: flex-start;
 }
 #content-art {
 	padding: 15px;
