@@ -202,6 +202,42 @@ h2 {
 	padding: 8px;
 	margin:0px;	
 }
+/*_________thumb-about__________*/
+#thumbnails-about{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center; 
+}
+
+.card {
+	margin-top: 25px;
+	padding: 20px;
+
+}
+.card-body-about{
+	background-color: rgb(191,176,153,50%);
+	width: 350px;
+	height: 140px;
+}
+
+.card-img-about {
+	width: 350px;
+	height: 100%;
+	margin-top: 20px;
+}
+
+.thumb-titles {
+	text-align: center;
+	font-size: 20px;
+	margin-top: 0px;
+}
+.card-text {
+	text-align: justify;
+	padding: 8px;
+	margin:0px;	
+}
 /*____________resume_____________
  
 #plugin {
