@@ -147,6 +147,11 @@ h2 {
 #art-info {
 	text-align: justify;
 }
+#footer-contact {
+	padding: 15px;
+	width: 85%;
+	align-content: flex-start;
+}
 /*_____________header________________*/
 #header-portfolio {
 	width: 100%;
