@@ -167,7 +167,8 @@ h2 {
 }
 #header-art {
 	text-align: center;
-	background-image:url("fabCROP1.jpg");
+	background-color: #D9C4BF;
+	/*background-image:url("fabCROP1.jpg");*/
 }
 .page-header {
 	margin: 0px;
