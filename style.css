@@ -120,11 +120,12 @@ h2 {
 	background-size: 60%;
 	background-position: center;
 	background-repeat: no-repeat;
+	padding-top: 0px;
 }
 #jumbo-text-contact {
 	display: flex;
 	flex-direction: column;
-	padding-top: 10px;
+	padding-top: 20px;
 }
 
 #linkedin-link {
