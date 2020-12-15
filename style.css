@@ -216,12 +216,21 @@ h2 {
 	padding: 20px;
 
 }
-#card-body-about{
+#card-body-1{
 	background-color: rgb(191,176,153,50%);
 	width: 350px;
 	height: 90px;
 }
-
+#card-body-2{
+	background-color: rgb(191,176,153,50%);
+	width: 350px;
+	height: 90px;
+}
+#card-body-3{
+	background-color: rgb(191,176,153,50%);
+	width: 350px;
+	height: 90px;
+}
 .card-img-about {
 	width: 350px;
 	height: 100%;
