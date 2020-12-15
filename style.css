@@ -216,7 +216,7 @@ h2 {
 	padding: 20px;
 
 }
-.card-body-about{
+#card-body-about{
 	background-color: rgb(191,176,153,50%);
 	width: 350px;
 	height: 90px;
