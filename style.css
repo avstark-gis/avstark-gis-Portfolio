@@ -161,6 +161,14 @@ h2 {
 	text-align: center;
 	background-image:url("Lowell_2.jpeg");
 }
+#header-art {
+	width: 100%;
+	padding: 0px;
+}
+#header-art {
+	text-align: center;
+	background-image:url("fabCROP1.jpeg");
+}
 .page-header {
 	margin: 0px;
 	border-bottom: .5px solid gray;
