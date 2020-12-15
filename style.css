@@ -44,6 +44,7 @@ h2 {
 #fixed-about {
 	margin-bottom: 0px;
 	border-bottom-width: 0px;
+	width: 100%;
 }
 #navbar-container-about {
 	font-size: 20.5px;
