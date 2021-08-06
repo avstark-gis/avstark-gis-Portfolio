@@ -81,7 +81,7 @@ h2 {
 	height: 100%;
 	text-align: center;
 	margin-bottom: 0px;
-	background-image: url("img/Lowell_2.jpeg");
+	background-image: url("img/Lowell_2.jpeg"); /*had to move to the html inline style*/
 	background-size: cover;
 }
 #jumbo-text-container {
@@ -115,7 +115,7 @@ h2 {
 	height: 100%;
 	text-align: center;
 	margin-bottom: 0px;
-	background-image: url("img/fabCROP3.jpg");
+	background-image: url("img/fabCROP3.jpg"); /*had to move to the html inline style*/
 	background-size: 60%;
 	background-position: center;
 	background-repeat: no-repeat;
