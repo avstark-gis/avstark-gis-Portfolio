@@ -17,7 +17,6 @@ h1 {
 h2 {
 	color: white;
 }
-
 .html-pdfs {
 	width: 100%;
 }
@@ -58,6 +57,9 @@ h2 {
 	margin: 0px;
 	background-color: #DEDEDE;
 }
+#Aboutpg-about {
+	color: blue
+}
 /*___________contact-nav_______________*/
 #fixed-contact {
 	margin-bottom: 0px;
@@ -75,7 +77,7 @@ h2 {
 	margin: 0px;
 	background-color: #DEDEDE;
 }
-/*____________jumbo___________________*/
+/*____________index-jumbo___________________*/
 #jumbotron {
 	width: 100%;
 	height: 100%;
@@ -88,6 +90,37 @@ h2 {
 	display: flex;
 	flex-direction: column;
 	padding-top: 170px;
+}
+#headline {
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+/*___________buttons/index-jumbo____________*/
+#jumbo-button-container {
+	padding-top: 15px;
+}
+#res-button{
+	text-decoration: none;
+	opacity: 1.0;
+	color:black;
+}
+#res-button :hover{
+	text-decoration: none;
+}
+#port-button{
+	text-decoration: none;
+	opacity: 1.0;
+	color:black;
+}
+#port-button :hover{
+	text-decoration: none;
+}
+#jumbo-button-port {
+	opacity: .62;
+	margin-left: 10px;
+}
+#jumbo-button-resume {
+	opacity: .62;
 }
 /*___________about-jumbo____________*/
 /*#jumbotron-about{
@@ -130,7 +163,7 @@ h2 {
 #linkedin-link {
 	font-size: 25px; color:#333333;
 }
-/*___________buttons/bio______________*/
+/*___________bio______________*/
 #content-bio {
 	padding: 15px;
 	width: 85%;
@@ -150,6 +183,10 @@ h2 {
 	padding: 15px;
 	width: 85%;
 	align-content: flex-start;
+}
+/*_________button/about______________*/
+#resume-button {
+
 }
 /*_____________header________________*/
 #header-portfolio {
