@@ -122,8 +122,6 @@ h2 {
 #jumbotron-about {
 	width: 100%;
 	height:100%;
-	margin-top: 30px;
-	margin-bottom: 20px;
 }
 #jumbo-text-about{
 	display: flex;
@@ -165,6 +163,7 @@ h2 {
 	padding: 15px;
 	width: 85%;
 	align-content: flex-start;
+	margin-bottom: 20px;
 }
 #content-art {
 	padding: 15px;
@@ -201,6 +200,7 @@ h2 {
 #header-art {
 	width: 100%;
 	padding: 0px;
+	margin-top: 60px;
 }
 #header-art {
 	text-align: center;
