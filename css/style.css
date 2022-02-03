@@ -123,8 +123,10 @@ h2 {
 #jumbotron-about {
 	width: 100%;
 	height:100%;
-	margin-bottom: 0px;
-	margin-top:20px;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	
+
 }
 #jumbo-text-about{
 	display: flex;
