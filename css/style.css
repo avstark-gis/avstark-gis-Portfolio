@@ -57,9 +57,7 @@ h2 {
 	margin: 0px;
 	background-color: #DEDEDE;
 }
-#Aboutpg-about {
-	color: blue
-}
+
 /*___________contact-nav_______________*/
 #fixed-contact {
 	margin-bottom: 0px;
@@ -184,9 +182,13 @@ h2 {
 	width: 85%;
 	align-content: flex-start;
 }
-/*_________button/about______________*/
-#resume-button {
+/*_________buttons/about______________*/
+#about-resume {
+	text-decoration: underline;
 
+}
+#about-contact {
+	text-decoration: underline;
 }
 /*_____________header________________*/
 #header-portfolio {
