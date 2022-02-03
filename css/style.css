@@ -121,9 +121,9 @@ h2 {
 /*___________about-jumbo____________*/
 #jumbotron-about {
 	width: 100%;
-	height: 80%;/*change this from 100%*/
-	margin-bottom: 20px;
-
+	height: 75%;/*change this from 100%*/
+	margin-top: 30px;
+	margin-bottom: 30px;
 }
 #jumbo-image-about{
 	display: flex;
@@ -207,6 +207,9 @@ h2 {
 #header-art {
 	text-align: center;
 	background-color: rgb(191,176,153,50%);
+}
+#art-jump {
+	margin-top: 10px;
 }
 .page-header {
 	margin: 0px;
